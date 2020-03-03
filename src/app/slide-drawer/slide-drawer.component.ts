@@ -2,7 +2,6 @@ import { Component, ElementRef, AfterViewInit, Renderer2 } from '@angular/core';
 import { GestureController } from '@ionic/angular';
 import { Gesture, GestureConfig } from '@ionic/core';
 
-
 @Component({
   selector: 'app-slide-drawer',
   templateUrl: './slide-drawer.component.html',
@@ -46,7 +45,7 @@ export class SlideDrawerComponent implements AfterViewInit {
           this.renderer.setStyle(
             this.element.nativeElement,
             'transform',
-            `translateY(-450px)`
+            `translateY(-500px)`
           );
         } else {
           this.renderer.setStyle(
