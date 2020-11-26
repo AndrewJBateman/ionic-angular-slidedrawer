@@ -1,6 +1,7 @@
 # :zap: Ionic Slide Drawer
 
 * App to display a vertical slide drawer that raises to full height with an Ionic swipe Gesture, using the [Ionic 5 framework](https://ionicframework.com/docs) and [Capacitor](https://capacitor.ionicframework.com/).
+* Code from [Joshua Morony](https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw) - see [:clap: Inspiration](#clap-inspiration) below
 
 ## :page_facing_up: Table of contents
 
@@ -28,7 +29,7 @@
 
 * [Ionic/angular v5](https://ionicframework.com/)
 * [Ionic v5](https://ionicframework.com/)
-* [Angular v10](https://angular.io/)
+* [Angular v11](https://angular.io/)
 * [Ionic Gestures](https://ionicframework.com/docs/utilities/gestures)
 
 ## :floppy_disk: Setup
