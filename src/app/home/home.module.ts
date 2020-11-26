@@ -8,17 +8,17 @@ import { HomePage } from './home.page';
 import { SlideDrawerComponent } from '../slide-drawer/slide-drawer.component';
 
 @NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    RouterModule.forChild([
-      {
-        path: '',
-        component: HomePage
-      }
-    ])
-  ],
-  declarations: [HomePage, SlideDrawerComponent]
+	imports: [
+		CommonModule,
+		FormsModule,
+		IonicModule,
+		RouterModule.forChild([
+			{
+				path: '',
+				component: HomePage,
+			},
+		]),
+	],
+	declarations: [HomePage, SlideDrawerComponent],
 })
 export class HomePageModule {}
