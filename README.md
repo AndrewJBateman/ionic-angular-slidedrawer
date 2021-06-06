@@ -2,11 +2,14 @@
 
 * App to display a vertical slide drawer that raises to full height with an Ionic swipe Gesture, using the [Ionic 5 framework](https://ionicframework.com/docs) and [Capacitor](https://capacitor.ionicframework.com/).
 * Code from [Joshua Morony](https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw) - see [:clap: Inspiration](#clap-inspiration) below
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-## :page_facing_up: Table of contents
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/ionic-angular-slidedrawer?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/ionic-angular-slidedrawer?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/ionic-angular-slidedrawer?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/ionic-angular-slidedrawer?style=plastic)
 
 * [:zap: Ionic Slide Drawer](#zap-ionic-slide-drawer)
-  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
   * [:signal_strength: Technologies](#signal_strength-technologies)
@@ -15,6 +18,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -29,7 +33,7 @@
 
 * [Ionic/angular v5](https://ionicframework.com/)
 * [Ionic v5](https://ionicframework.com/)
-* [Angular v11](https://angular.io/)
+* [Angular v12](https://angular.io/)
 * [Ionic Gestures](https://ionicframework.com/docs/utilities/gestures)
 
 ## :floppy_disk: Setup
@@ -81,6 +85,10 @@ onEnd: ev => {
 * [Joshua Morony Youtube video: SLIDE DRAWER WITH IONIC GESTURES - Ionic UI Challenge #3](https://www.youtube.com/watch?v=AW80XVSOLZg&t=28s).
 * [Josh Morony website](https://www.joshmorony.com/)
 
+## :file_folder: License
+
+* N/A
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) * you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
