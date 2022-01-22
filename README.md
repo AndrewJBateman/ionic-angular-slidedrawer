@@ -1,6 +1,6 @@
 # :zap: Ionic Slide Drawer
 
-* App to display a vertical slide drawer that raises to full height with an Ionic swipe Gesture, using the [Ionic 5 framework](https://ionicframework.com/docs) and [Capacitor](https://capacitor.ionicframework.com/).
+* App to display a vertical slide drawer that raises to full height with an Ionic swipe Gesture, using the [Ionic framework](https://ionicframework.com/docs) and [Capacitor](https://capacitor.ionicframework.com/).
 * Code from [Joshua Morony](https://www.youtube.com/channel/UCbVZdLngJH6KOJvpAOO3qTw) - see [:clap: Inspiration](#clap-inspiration) below
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
@@ -23,6 +23,7 @@
 
 ## :books: General info
 
+* Updated to the latest Angular & Ionic versions, all dependencies updated
 * Uses [Ionic Gestures](https://ionicframework.com/docs/v3/components/#gestures) to activate drawer
 
 ## :camera: Screenshots
@@ -31,15 +32,15 @@
 
 ## :signal_strength: Technologies
 
-* [Ionic/angular v5](https://ionicframework.com/)
-* [Ionic v5](https://ionicframework.com/)
-* [Angular v12](https://angular.io/)
+* [Ionic/angular v6](https://ionicframework.com/)
+* [Ionic v6](https://ionicframework.com/)
+* [Angular v13](https://angular.io/)
 * [Ionic Gestures](https://ionicframework.com/docs/utilities/gestures)
 
 ## :floppy_disk: Setup
 
 * Load dependencies using `npm i`,
-* To start the server on _localhost://8100_ type: 'ionic serve'
+* To start the server on _localhost://8100_ type: `ionic serve`
 
 ## :computer: Code Examples
 
