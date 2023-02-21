@@ -12,13 +12,13 @@
 * [:zap: Ionic Slide Drawer](#zap-ionic-slide-drawer)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
-  * [:signal_strength: Technologies](#signal_strength-technologies)
-  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:signal\_strength: Technologies](#signal_strength-technologies)
+  * [:floppy\_disk: Setup](#floppy_disk-setup)
   * [:computer: Code Examples](#computer-code-examples)
   * [:cool: Features](#cool-features)
-  * [:clipboard: Status & To-do list](#clipboard-status--to-do-list)
+  * [:clipboard: Status \& To-do list](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
-  * [:file_folder: License](#file_folder-license)
+  * [:file\_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -34,7 +34,7 @@
 
 * [Ionic/angular v6](https://ionicframework.com/)
 * [Ionic v6](https://ionicframework.com/)
-* [Angular v13](https://angular.io/)
+* [Angular v15](https://angular.io/)
 * [Ionic Gestures](https://ionicframework.com/docs/utilities/gestures)
 
 ## :floppy_disk: Setup
