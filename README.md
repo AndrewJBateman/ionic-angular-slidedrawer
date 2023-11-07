@@ -32,9 +32,8 @@
 
 ## :signal_strength: Technologies
 
-* [Ionic/angular v6](https://ionicframework.com/)
-* [Ionic v6](https://ionicframework.com/)
-* [Angular v15](https://angular.io/)
+* [Ionic/angular v7](https://ionicframework.com/)
+* [Angular v16](https://angular.io/)
 * [Ionic Gestures](https://ionicframework.com/docs/utilities/gestures)
 
 ## :floppy_disk: Setup
@@ -92,4 +91,4 @@ onEnd: ev => {
 
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: `gomezbateman@yahoo.com`
